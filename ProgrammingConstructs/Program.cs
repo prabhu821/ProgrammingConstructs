@@ -22,6 +22,11 @@
             forLoop.PowerOfTwo();
             forLoop.SumOfSquares();
             forLoop.Factorial();
+
+            WhileLoop whileLoop = new WhileLoop();
+            whileLoop.FlipCoin();
+            whileLoop.ReverseWord();
+            whileLoop.SumOfNaturalNumbers();
         }
     }
 }
