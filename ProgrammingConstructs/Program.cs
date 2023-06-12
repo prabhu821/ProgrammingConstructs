@@ -17,6 +17,11 @@
             SwitchCase switchCase = new SwitchCase();
             switchCase.WeekDayName();
             switchCase.Calculator();
+
+            ForLoop forLoop=new ForLoop();
+            forLoop.PowerOfTwo();
+            forLoop.SumOfSquares();
+            forLoop.Factorial();
         }
     }
 }
