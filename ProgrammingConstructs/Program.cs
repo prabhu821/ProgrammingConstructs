@@ -13,6 +13,10 @@
             If_ElseIf_Else if_ElseIf_Else = new If_ElseIf_Else();
             if_ElseIf_Else.LargestOfThree();
             if_ElseIf_Else.EligibleForAdmission();
+
+            SwitchCase switchCase = new SwitchCase();
+            switchCase.WeekDayName();
+            switchCase.Calculator();
         }
     }
 }
