@@ -9,6 +9,10 @@
             ifAndElse.TwoNumAreEqual();
             ifAndElse.IsEvenOrOdd();
             ifAndElse.IsEligible();
+
+            If_ElseIf_Else if_ElseIf_Else = new If_ElseIf_Else();
+            if_ElseIf_Else.LargestOfThree();
+            if_ElseIf_Else.EligibleForAdmission();
         }
     }
 }
